@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "GooDAnDReaDY/dsh-session-search",
+  "name": "dsh-session-search",
+  "repository": "https://github.com/GooDAnDReaDY/dsh-session-search",
+  "category": "session",
+  "description": {
+    "en": "Adds full-text search across historical DeepSeek Harness sessions using the core SQLite FTS5 engine.",
+    "zh": "使用核心 SQLite FTS5 引擎，为 DeepSeek Harness 历史会话添加全文搜索。"
+  },
+  "added": "2026-09-18"
+}
