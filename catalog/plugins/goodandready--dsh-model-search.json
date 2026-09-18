@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "GooDAnDReaDY/dsh-model-search",
+  "name": "dsh-model-search",
+  "repository": "https://github.com/GooDAnDReaDY/dsh-model-search",
+  "category": "model",
+  "description": {
+    "en": "Adds searchable model selection to the DeepSeek Harness web interface.",
+    "zh": "为 DeepSeek Harness 网页界面添加可搜索的模型选择器。"
+  },
+  "added": "2026-09-18"
+}
