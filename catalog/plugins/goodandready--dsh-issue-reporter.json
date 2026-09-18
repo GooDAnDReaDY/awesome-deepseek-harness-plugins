@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "GooDAnDReaDY/dsh-issue-reporter",
+  "name": "dsh-issue-reporter",
+  "repository": "https://github.com/GooDAnDReaDY/dsh-issue-reporter",
+  "category": "dev",
+  "description": {
+    "en": "Previews and submits actionable GitHub bug reports from DeepSeek Harness.",
+    "zh": "在 DeepSeek Harness 中预览并提交包含可执行信息的 GitHub 缺陷报告。"
+  },
+  "added": "2026-09-18"
+}
