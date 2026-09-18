@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "GooDAnDReaDY/dsh-remote-workspace",
+  "name": "dsh-remote-workspace",
+  "repository": "https://github.com/GooDAnDReaDY/dsh-remote-workspace",
+  "category": "tools",
+  "description": {
+    "en": "Connects DeepSeek Harness to remote workspaces over SSH, with SFTP operations, conflict-aware mirror sync, port forwarding, and a native interface.",
+    "zh": "通过 SSH 将 DeepSeek Harness 连接到远程工作区，提供 SFTP 操作、冲突感知的镜像同步、端口转发和原生界面。"
+  },
+  "added": "2026-09-18"
+}
