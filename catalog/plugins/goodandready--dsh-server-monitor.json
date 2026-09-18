@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "GooDAnDReaDY/dsh-server-monitor",
+  "name": "dsh-server-monitor",
+  "repository": "https://github.com/GooDAnDReaDY/dsh-server-monitor",
+  "category": "tools",
+  "description": {
+    "en": "Provides a read-only sidebar for monitoring Linux servers from DeepSeek Harness.",
+    "zh": "在 DeepSeek Harness 中提供只读侧边栏，用于监控 Linux 服务器。"
+  },
+  "added": "2026-09-18"
+}
