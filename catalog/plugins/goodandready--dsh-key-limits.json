@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "GooDAnDReaDY/dsh-key-limits",
+  "name": "dsh-key-limits",
+  "repository": "https://github.com/GooDAnDReaDY/dsh-key-limits",
+  "category": "model",
+  "description": {
+    "en": "Displays API key and subscription quota limits in the DeepSeek Harness interface.",
+    "zh": "在 DeepSeek Harness 界面中显示 API Key 和订阅配额限制。"
+  },
+  "added": "2026-09-18"
+}
