@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "GooDAnDReaDY/dsh-approval-gate",
+  "name": "dsh-approval-gate",
+  "repository": "https://github.com/GooDAnDReaDY/dsh-approval-gate",
+  "category": "dev",
+  "description": {
+    "en": "A host-side command safety gate that blocks recognized dangerous operations and requests DSH approval when a command cannot be inspected.",
+    "zh": "主机侧命令安全闸门：拦截已识别的危险操作，并在无法检查命令时请求 DSH 审批。"
+  },
+  "added": "2026-09-18"
+}
