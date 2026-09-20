@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "GooDAnDReaDY/dsh-plugin-notify",
+  "name": "dsh-plugin-notify",
+  "repository": "https://github.com/GooDAnDReaDY/dsh-plugin-notify",
+  "category": "notify",
+  "description": {
+    "en": "Adds completion, error and approval notifications to DeepSeek Harness through audio chimes, cross-session toasts, desktop push and IM webhooks.",
+    "zh": "通过提示音、跨会话通知、桌面推送和即时通讯 Webhook，为 DeepSeek Harness 添加完成、错误与审批通知。"
+  },
+  "added": "2026-09-20"
+}
