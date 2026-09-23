@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "GooDAnDReaDY/dsh-github-ops",
+  "name": "dsh-github-ops",
+  "repository": "https://github.com/GooDAnDReaDY/dsh-github-ops",
+  "category": "dev",
+  "description": {
+    "en": "Provides guarded GitHub operations for releases, tags, workflow runs, repository settings, and sanitized mirror publication in DeepSeek Harness.",
+    "zh": "为 DeepSeek Harness 提供受保护的 GitHub 操作，涵盖发布、标签、工作流运行、仓库设置和清理后的镜像发布。"
+  },
+  "added": "2026-09-23"
+}
